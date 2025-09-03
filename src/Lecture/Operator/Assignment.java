@@ -1,4 +1,4 @@
-package Lecture.IfelseOperator;
+package Lecture.Operator;
 
 public class Assignment {
     public static void main(String[] args) {
