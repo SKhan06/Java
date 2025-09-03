@@ -1,4 +1,4 @@
-package Lecture.IfelseOperator;
+package Lecture.Operator;
 
 import java.util.Scanner;
 
