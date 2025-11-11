@@ -1,4 +1,4 @@
-package in.Accessmodified;
+package in.Encapsulation.Accessmodified;
 
 public class AccessTest {
     public static void main(String[] args) {
