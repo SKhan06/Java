@@ -3,7 +3,7 @@ package in.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Files {
+public class FilesWritter {
     public static void main(String[] args){
         String fileName = "java-course.txt";
 
